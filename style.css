@@ -200,7 +200,7 @@ nav ul li a:hover, a.active {
     line-height: 60px;
 }
 
-.popup .icon i.fa {
+.popup .icon {
     font-size: 30px;
     color: #34f234;
 }
